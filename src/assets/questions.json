@@ -1,0 +1,427 @@
+{
+    "info": {
+        "odin": {
+            "name": "Odin",
+            "desc": "Congratulations, you are most like Odin. You strive to learn and become more knowledgable. You would even sacrifice one of your eyes for knowledge! You can also be sneaky and mischevious at times. You host slain warriors in your great hall Valhalla. You also have two ravens, and an eight-legged horse.",
+            "link": "https://www.worldhistory.org/odin/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ardre_Odin_Sleipnir.jpg"
+        },
+        "freyja": {
+            "name": "Freyja",
+            "desc": "Congratulations, you are most like Freyja. She is a warrior goddess who is associated with beauty and fertility. She is also an expert in magic. Like Odin, she also hosts half of the fallen warriors in her hall.",
+            "link": "https://www.worldhistory.org/Freyja/",
+            "image": "https://www.worldhistory.org/img/r/p/1000x1200/8090.jpg.webp?v=1711193649"
+        },
+        "thor": {
+            "name": "Thor",
+            "desc": "Congratulations, you are most like Thor. Thor is associated with thunder and the sky. He is known as the strongest of the Aesir. He is the son of Odin as well. He has the most powerful weapon, his hammer. He is most recognized for fighting giants.",
+            "link": "https://www.worldhistory.org/Thor/",
+            "image": "https://images.ctfassets.net/m3d2dwoc9jko/3F9nV6DxXTx7M8gJyHr7zE/7ed26a263f68eade0869f421a66e7cb2/thor-norse-god-of-thunder.jpg"
+        },
+        "loki": {
+            "name": "Loki",
+            "desc": "Congratulations, you are most like Loki. Loki is associated with being a cunning trickster, who likes to pull pranks. He has a desire to cause mischief and problems for the other Aesir. He is a shapeshifter, and also has a diverse assortment of children, one being a serpent!",
+            "link": "https://www.britannica.com/topic/Loki",
+            "image": "https://images.ctfassets.net/m3d2dwoc9jko/6YyDSK6USIhPkZQck9XUKF/9ef32e94c607d4492778232f4220f891/loki-norse-trickster-god.jpg"
+        },
+        "tyr": {
+            "name": "Tyr",
+            "desc": "Congratulations, you are most like Tyr. Tyr is associated with war, law, and justice. He was seen as very brave and a strong fighter. He is most famous for sacrificing his hand to the wolf Fenrir, where he showed a very large amount of courage and intergrity.",
+            "link": "https://www.worldhistory.org/Tyr/",
+            "image": "https://www.worldhistory.org/img/r/p/1000x1200/13749.jpg.webp?v=1642604403"
+        },
+        "heimdall": {
+            "name": "Heimdall",
+            "desc": "Congratulations, you are most like Heimdall. Heimdall protects and gaurds the bifrost for others. He had great hearing and great vision. His job was to summon the gods when the giants were near Ragnarok. He is respectable and honorable for his job in keeping watch.",
+            "link": "https://www.britannica.com/topic/Heimdall",
+            "image": "https://cdn.britannica.com/16/166516-050-E874CAB4/Heimdall.jpg?w=300"
+        }, 
+        "freyr": {
+            "name": "Freyr",
+            "desc": "Congratulations, you are most like Freyr. Freyr is the twin brother of Freyja, he is associated with peace and fertility. He was originally associated with the Vanir tribe, however he is considered an Aesir. He was worshipped heavily with argicultural societies.",
+            "link": "https://www.worldhistory.org/Freyr/",
+            "image": "https://www.worldhistory.org/img/r/p/1000x1200/8630.jpg.webp?v=1710897369"
+        },
+        "frigg": {
+            "name": "Frigg",
+            "desc": "Congratulations, you are most like Frigg. Frigg is the wife of Odin. She was associated with marriage and fertility. The most popular story she is associated with, is her forcing all Aesir to make an oath not to kill her son Baldr. Therefore she is family oriented.",
+            "link": "https://www.britannica.com/topic/Frigg-Norse-mythology",
+            "image": "https://cdn.britannica.com/96/146196-050-B436BA7A/Frigg.jpg?w=300"
+        }
+    },
+    "questions": [
+        {
+            "question": "What is your weapon of choice?",
+            "answers": [{
+                "answer": "Spear",
+                "points": {
+                    "odin": 4,
+                    "tyr": 1
+                }
+            },
+            {
+                "answer": "Hammer",
+                "points": {
+                    "thor": 5
+                }
+            }, 
+            {
+                "answer": "Sword",
+                "points": {
+                    "heimdall": 5,
+                    "tyr": 4
+                }
+            },
+            {
+                "answer": "Magic",
+                "points": {
+                    "loki": 5,
+                    "freyja": 5,
+                    "odin": 1
+                }
+            },
+            {
+                "answer": "There is more to life than violence",
+                "points": {
+                    "frigg": 5,
+                    "freyr": 4
+                }
+            }]
+        },
+        {
+            "question": "How would your friends describe you?",
+            "answers": [{
+                "answer": "Wise",
+                "points": [{
+                    "odin": 4
+                }]
+            },
+            {
+                "answer": "Strong",
+                "points": {
+                    "thor": 5,
+                    "freyja": 4
+                }
+            },
+            {
+                "answer": "Sneaky",
+                "points": {
+                    "loki": 5,
+                    "odin": 1
+                }
+            }, 
+            {
+                "answer": "Loving",
+                "points": {
+                    "frigg": 5
+                }
+            },
+            {
+                "answer": "Honorable",
+                "points": {
+                    "tyr": 5,
+                    "heimdall": 3
+                }
+            }, 
+            {
+                "answer": "Successful",
+                "points": {
+                    "freyr": 5
+                }
+            }]
+        },
+        {
+            "question": "What do you seek in life?",
+            "answers": [{
+                "answer": "Knowledge",
+                "points": {
+                    "odin": 5
+                }
+            },
+            {
+                "answer": "Wealth",
+                "points": {
+                    "freyr": 5
+                }
+            }, 
+            {
+                "answer": "Family",
+                "points": {
+                    "frigg": 5
+                }
+            }, 
+            {
+                "answer": "Glory",
+                "points": {
+                    "thor": 5,
+                    "heimdall": 3
+                }
+            }, 
+            {
+                "answer": "Material Possessions",
+                "points": {
+                    "freyja": 3
+                }
+            }, 
+            {
+                "answer": "Justice",
+                "points": {
+                    "tyr": 5
+                }
+            }]
+        },
+        {
+            "question": "How do you handle conflict?",
+            "answers": [{
+                "answer": "Charm",
+                "points": {
+                    "freyja": 4
+                }
+            }, 
+            {
+                "answer": "Violence",
+                "points": {
+                    "thor": 5,
+                    "tyr": 4,
+                    "freyja": 4
+                }
+            }, 
+            {
+                "answer": "Manipulate",
+                "points": {
+                    "loki": 5,
+                    "odin": 3
+                }
+            }, 
+            {
+                "answer": "I avoid conflict",
+                "points": {
+                    "frigg": 5,
+                    "freyr": 4
+                }
+            },
+            {
+                "answer": "Strategize",
+                "points": {
+                    "heimdall": 4,
+                    "odin": 2
+                }
+            }]
+        },
+        {
+            "question": "What is your preferred hobby?",
+            "answers": [{
+                "answer": "Gaining knowledge",
+                "points": {
+                    "odin": 4,
+                    "heimdall": 3
+                }
+            },
+            {
+                "answer": "Playing tricks",
+                "points": {
+                    "loki": 5
+                }
+            },
+            {
+                "answer": "Caring for others",
+                "points": {
+                    "frigg": 5, 
+                    "freyr": 4
+                }
+            }, 
+            {
+                "answer": "Fighting",
+                "points": {
+                    "thor": 5,
+                    "tyr": 4,
+                    "freyja": 1
+                }
+            }]
+        },
+        {
+            "question": "If you had to choose a mythical creature to accompany you, what would it be?",
+            "answers": [{
+                "answer": "Raven",
+                "points": {
+                    "odin": 5
+                }
+            }, 
+            {
+                "answer": "Goat",
+                "points": {
+                    "thor": 5
+                }
+            },
+            {
+                "answer": "Serpent",
+                "points": {
+                    "loki": 5
+                }
+            },
+            {
+                "answer": "Horse",
+                "points": {
+                    "heimdall": 5,
+                    "odin": 1
+                }
+            },
+            {
+                "answer": "None",
+                "points": {
+                    "tyr": 2,
+                    "freyja": 2,
+                    "freyr": 2,
+                    "frigg": 2
+                }
+            }]
+        },
+        {
+            "question": "What trait would you want the most?",
+            "answers": [{
+                "answer": "Intelligence",
+                "points": {
+                    "odin": 5,
+                    "heimdall": 2
+                }
+            },
+            {
+                "answer": "Beauty",
+                "points": {
+                    "freyja": 5
+                }
+            },
+            {
+                "answer": "Strength",
+                "points": {
+                    "thor": 5
+                }
+            },  
+            {
+                "answer": "Mischevious",
+                "points": {
+                    "loki": 5
+                }
+            },
+            {
+                "answer": "Integrity",
+                "points": {
+                    "tyr": 5,
+                    "heimdall": 3
+                }
+            }]
+        },
+        {
+            "question": "Which role would you prefer in a group?",
+            "answers": [{
+                "answer": "The leader",
+                "points": {
+                    "odin": 5
+                }
+            },
+            {
+                "answer": "The protector",
+                "points": {
+                    "thor": 5,
+                    "heimdall": 5,
+                    "freyja": 3,
+                    "frigg": 2
+                }
+            },
+            {
+                "answer": "The trickster",
+                "points": {
+                    "loki": 5,
+                    "freyja": 2
+                }
+            },
+            {
+                "answer": "The moral compass",
+                "points": {
+                    "tyr": 5
+                }
+            },
+            {
+                "answer": "The peacemaker",
+                "points": {
+                    "freyr": 5
+                }
+            }]
+        },
+        {
+            "question": "What feat would you be most proud of?",
+            "answers": [{
+                "answer": "Outsmarting others",
+                "points": {
+                    "loki": 5,
+                    "odin": 2
+                }
+            }, 
+            {
+                "answer": "Being victorious in battle",
+                "points": {
+                    "thor": 5,
+                    "freyja": 3
+                }
+            },
+            {
+                "answer": "Making a big sacrifice",
+                "points": {
+                    "tyr": 3,
+                    "odin": 3
+                }
+            },
+            {
+                "answer": "Protecting others",
+                "points": {
+                    "frigg": 5,
+                    "heimdall": 5, 
+                    "tyr": 2
+                }
+            },
+            {
+                "answer": "Being wealthy",
+                "points": {
+                    "freyr": 5
+                }
+            }]
+        },
+        {
+            "question": "How would you want to die?",
+            "answers": [{
+                "answer": "In battle",
+                "points": {
+                    "thor": 5,
+                    "freyja": 4,
+                    "tyr": 1
+                }
+            },
+            {
+                "answer": "Seeking knowledge",
+                "points": {
+                    "odin": 5
+                }
+            },
+            {
+                "answer": "Peacefully with family",
+                "points": {
+                    "frigg": 5,
+                    "freyr": 5
+                }
+            },
+            {
+                "answer": "Sacrificing for others",
+                "points": {
+                    "heimdall": 5,
+                    "tyr": 4
+                }
+            },
+            {
+                "answer": "For selfish reasons",
+                "points": {
+                    "loki": 5
+                }
+            }]
+        }
+    ]
+}
